@@ -2,7 +2,7 @@
 
 [**Cleuton Sampaio**](https://linkedin.com/in/cleutonsampaio)
 
-# Elxir? Anyone? 
+# Elixir? Anyone? 
 
 ## Guia Rápido Elixir + Phoenix (API REST básica)
 
